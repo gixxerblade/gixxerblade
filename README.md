@@ -19,4 +19,6 @@
 ](https://dev.to/vetswhocode/build-a-crud-firestore-app-in-react-gatsby-with-hooks-4ig9)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gixxerblade)](https://github.com/anuraghazra/github-readme-stats)
