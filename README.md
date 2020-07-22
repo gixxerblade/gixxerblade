@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Steve
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently using JavaScript
 - 👯 I’m looking to collaborate on anything to get my hands dirty
 - 📫 How to reach me: visit my website at https://www.stephenclark.dev
 - ![angry pickles](https://github.com/gixxerblade/gixxerblade/blob/master/images/angrypickle.png) Fun fact: I make pickles. You can order them [here](https://www.angrypickles.com)
