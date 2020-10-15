@@ -23,10 +23,9 @@ npx angry_pickle_guy
   "first name": "Stephen",
   "last name": "Clark",
   "aliases": ["gixxerblade", "Angry Pickle Guy"],
-  "code": ["Javascript", "React", "Node", "HTML/CSS"],
-  "askMeAbout": ["web dev", "tech", "military", "pickling"],
+  "code": ["Javascript", "React", "Node", "HTML5/CSS3"],
+  "askMeAbout": ["web dev", "tech", "military", "pickling", "cycling"],
   "technologies": {
-    "mobileApp": ["Android App"],
     "frontEnd": {
       "js": ["GatsbyJS", "React", "POjs"],
       "css": ["foundation", "sass", "bootstrap"],
@@ -39,14 +38,12 @@ npx angry_pickle_guy
     "backEnd": {
       "js": ["node"]
     },
-    "devOps": ["AWS"],
-    "databases": ["Postgres", "MySql", "NoSQL", "SQL", "GraphQL"],
+    "databases": ["MySql", "NoSQL", "SQL", "GraphQL"],
     "misc": ["Firebase"]
   },
   "testing": ["Jest"],
   "architecture": [
     "Serverless Architecture",
-    "Progressive web applications",
     "Single page applications",
     "JAMstack"
   ],
