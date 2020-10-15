@@ -22,6 +22,7 @@ npx angry_pickle_guy
 {
   "first name": "Stephen",
   "last name": "Clark",
+  "education": ["Bachelor of Science - Information Technology", "VetsWhoCode Software Development Program"]
   "aliases": ["gixxerblade", "Angry Pickle Guy"],
   "code": ["Javascript", "React", "Node", "HTML5/CSS3"],
   "askMeAbout": ["open source", "tech", "military", "pickling", "cycling"],
