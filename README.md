@@ -12,12 +12,50 @@ npx angry_pickle_guy
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.stephenclark.dev)](https://www.stephenclark.dev)
 ![badge](https://visitor-badge.glitch.me/badge?page_id=gixxerblade.gixxerblade)
 
-
 - 🌱 I’m currently using JavaScript
 - 👯 I’m looking to collaborate on anything to get my hands dirty
 - 📫 How to reach me: visit my website at https://www.stephenclark.dev
 - ![angry pickles](https://github.com/gixxerblade/gixxerblade/blob/master/images/angrypickle.png) Fun fact: I make pickles. You can order them [here](https://www.angrypickles.com)
 - ![vwc](https://github.com/gixxerblade/gixxerblade/blob/master/images/hashflag.png) I am a graduate of [Vets Who Code](www.vetswhocode.io)
+
+```json
+{
+  "first name": "Stephen",
+  "last name": "Clark",
+  "aliases": ["gixxerblade", "Angry Pickle Guy"],
+  "code": ["Javascript", "React", "Node", "HTML/CSS"],
+  "askMeAbout": ["web dev", "tech", "military", "pickling"],
+  "technologies": {
+    "mobileApp": ["Android App"],
+    "frontEnd": {
+      "js": ["GatsbyJS", "React", "POjs"],
+      "css": ["foundation", "sass", "bootstrap"],
+      "misc": [
+        "Web Accessibility",
+        "UX/UI Design Principles",
+        "Responsive Design"
+      ]
+    },
+    "backEnd": {
+      "js": ["node"]
+    },
+    "devOps": ["AWS"],
+    "databases": ["Postgres", "MySql", "NoSQL", "SQL", "GraphQL"],
+    "misc": ["Firebase"]
+  },
+  "testing": ["Jest"],
+  "architecture": [
+    "Serverless Architecture",
+    "Progressive web applications",
+    "Single page applications",
+    "JAMstack"
+  ],
+  "misc": ["Git Source Control", "Linux"],
+  "currentFocus": "e-Commerce",
+  "funFact": "The first computer virus was created in 1983."
+}
+```
+
   
 ### ![devto badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white) Articles
 
