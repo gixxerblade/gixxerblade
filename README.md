@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Steve
 
-<img align="right" src="https://i.ibb.co/Jtqd5q8/selfieascii.png" width="230">
+<img align="right" src="https://i.ibb.co/Jtqd5q8/selfieascii.png" width="130">
 
 Hit me up in your `terminal` :computer:
 
