@@ -57,7 +57,6 @@ npx angry_pickle_guy
 }
 ```
 
-  
 ### ![devto badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white) Articles
 
 ---
@@ -69,6 +68,10 @@ npx angry_pickle_guy
 - [git](https://dev.to/vetswhocode/git-22li)
 - [React Tutorial — Upload and Fetch Photos with Cloudinary](https://dev.to/vetswhocode/react-tutorial-upload-and-fetch-photos-with-cloudinary-2ec9)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=gixxerblade)](https://github.com/gixxerblade/github-readme-stats)
 
 ---
 
