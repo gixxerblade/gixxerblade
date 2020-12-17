@@ -62,11 +62,11 @@ npx angry_pickle_guy
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [React Tutorial — City/State Lookup using the US Postal Service API](https://dev.to/vetswhocode/react-tutorial-city-state-lookup-using-the-us-postal-service-api-202p)
 - [How to normalize an input (Colloquially known as how to create an input mask)](https://dev.to/vetswhocode/how-to-normalize-an-input-colloquially-known-as-how-to-create-an-input-mask-5gh4)
 - [JavaScript Primitives](https://dev.to/vetswhocode/javascript-primitives-3380)
 - [How to Fork a Repo and get a free Vets Who Code sticker](https://dev.to/vetswhocode/how-to-fork-a-repo-and-get-a-free-vets-who-code-sticker-46d9)
 - [git](https://dev.to/vetswhocode/git-22li)
-- [React Tutorial — Upload and Fetch Photos with Cloudinary](https://dev.to/vetswhocode/react-tutorial-upload-and-fetch-photos-with-cloudinary-2ec9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
