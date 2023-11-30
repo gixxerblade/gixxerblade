@@ -7,8 +7,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/gixxerblade?label=Follow&style=social)
 [![GitLab](https://img.shields.io/badge/-I'm%20on%20Gitlab-blue?logo=gitlab)](https://gitlab.com/gixxerblade)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.stephenclark.dev)](https://www.stephenclark.dev)
-![badge](https://visitor-badge.glitch.me/badge?page_id=gixxerblade.gixxerblade)
-
 
 Hit me up in your `terminal` :computer:
 
@@ -29,7 +27,7 @@ npx angry_pickle_guy
   "last name": "Clark",
   "education": ["Bachelor of Science - Information Technology", "VetsWhoCode Software Development Program"],
   "aliases": ["gixxerblade", "Angry Pickle Guy"],
-  "code": ["JavaScript", "React", "Node", "HTML5/CSS3"],
+  "code": ["JavaScript", "React", "Node", "HTML5/CSS3", "TypeScript"],
   "askMeAbout": ["open source", "tech", "military", "pickling", "cycling"],
   "technologies": {
     "frontEnd": {
@@ -42,7 +40,7 @@ npx angry_pickle_guy
       ]
     },
     "backEnd": {
-      "js": ["node", "TypeScript", "Sequelize", "ExpressJS"]
+      "js": ["node", "TypeScript", "Sequelize", "ExpressJS", "pactumJS", "Stripe", "Twilio", "SendGrid"]
     },
     "databases": ["MySql", "NoSQL", "SQL", "GraphQL", "PostGreSQL", "Redis"],
     "misc": ["Firebase", "Docker"]
