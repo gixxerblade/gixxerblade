@@ -6,7 +6,6 @@
 [![Linkedin: Steve](https://img.shields.io/badge/-Steve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephen-clark-5319406/)](https://www.linkedin.com/in/stephen-clark-5319406/)
 ![GitHub followers](https://img.shields.io/github/followers/gixxerblade?label=Follow&style=social)
 [![GitLab](https://img.shields.io/badge/-I'm%20on%20Gitlab-blue?logo=gitlab)](https://gitlab.com/gixxerblade)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.stephenclark.dev)](https://www.stephenclark.dev)
 
 Hit me up in your `terminal` :computer:
 
