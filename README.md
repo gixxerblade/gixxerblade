@@ -2,7 +2,6 @@
 
 <img align="right" src="https://i.ibb.co/Jtqd5q8/selfieascii.png" width="130">
 
-![Twitter Follow](https://img.shields.io/twitter/follow/gixxerblade?label=Follow)
 [![Linkedin: Steve](https://img.shields.io/badge/-Steve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephen-clark-5319406/)](https://www.linkedin.com/in/stephen-clark-5319406/)
 ![GitHub followers](https://img.shields.io/github/followers/gixxerblade?label=Follow&style=social)
 [![GitLab](https://img.shields.io/badge/-I'm%20on%20Gitlab-blue?logo=gitlab)](https://gitlab.com/gixxerblade)
