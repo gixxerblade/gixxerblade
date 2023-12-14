@@ -18,7 +18,7 @@ npx angry_pickle_guy
 - 👯 I’m looking to collaborate on anything to get my hands dirty
 - 📫 How to reach me: [email](mailto:sdclarkie@gmail.com) or [LinkedIn](https://www.linkedin.com/in/stephen-clark-5319406/) 
 - [angry pickles](https://github.com/gixxerblade/gixxerblade/blob/master/images/angrypickle.png) Fun fact: I make pickles. You can order them [here](https://www.angrypickles.com/home)
-- [vwc](https://github.com/gixxerblade/gixxerblade/blob/master/images/hashflag.png) I am a graduate of ![Vets Who Code](www.vetswhocode.io)
+- [vwc](https://github.com/gixxerblade/gixxerblade/blob/master/images/hashflag.png) I am a graduate of [Vets Who Code](www.vetswhocode.io)
 
 ```json
 {
