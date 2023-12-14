@@ -37,7 +37,7 @@ npx angry_pickle_guy
     "databases": ["SQL", "GraphQL", "PostGreSQL", "Redis"],
     "misc": ["Firebase", "Docker"]
   },
-  "testing": ["Jest". "React Testing Library", "pactumJS"],
+  "testing": ["Jest", "React Testing Library", "pactumJS"],
   "architecture": [
     "Serverless Architecture",
     "SPA",
