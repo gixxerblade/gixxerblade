@@ -35,9 +35,9 @@ npx angry_pickle_guy
     },
     "backEnd": ["node", "TypeScript", "Sequelize", "ExpressJS", "Stripe", "tsoa"],
     "databases": ["SQL", "GraphQL", "PostGreSQL", "Redis"],
+    "testing": ["Jest", "React Testing Library", "pactumJS"],
     "misc": ["Firebase", "Docker"]
   },
-  "testing": ["Jest", "React Testing Library", "pactumJS"],
   "architecture": [
     "Serverless Architecture",
     "SPA",
