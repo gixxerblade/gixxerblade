@@ -27,32 +27,25 @@ npx angry_pickle_guy
   "education": ["Bachelor of Science - Information Technology", "VetsWhoCode Software Development Program"],
   "aliases": ["gixxerblade", "Angry Pickle Guy"],
   "code": ["JavaScript", "React", "Node", "HTML5/CSS3", "TypeScript"],
-  "askMeAbout": ["open source", "tech", "military", "pickling", "cycling"],
+  "askMeAbout": ["military", "pickling", "cycling"],
   "technologies": {
     "frontEnd": {
-      "js": ["GatsbyJS", "React", "React Native", "TypeScript"],
-      "css": ["Foundation", "sass", "Bootstrap", "TailwindCSS", "Bulma"],
-      "misc": [
-        "Web Accessibility",
-        "UX/UI Design Principles",
-        "Responsive Design"
-      ]
+      "js": ["React", "React Native", "TypeScript"],
+      "css": ["Bootstrap", "TailwindCSS", "Bulma"],
     },
-    "backEnd": {
-      "js": ["node", "TypeScript", "Sequelize", "ExpressJS", "pactumJS", "Stripe", "Twilio", "SendGrid"]
-    },
-    "databases": ["MySql", "NoSQL", "SQL", "GraphQL", "PostGreSQL", "Redis"],
+    "backEnd": ["node", "TypeScript", "Sequelize", "ExpressJS", "Stripe", "tsoa"],
+    "databases": ["SQL", "GraphQL", "PostGreSQL", "Redis"],
     "misc": ["Firebase", "Docker"]
   },
-  "testing": ["Jest"],
+  "testing": ["Jest". "React Testing Library", "pactumJS"],
   "architecture": [
     "Serverless Architecture",
-    "Single page applications",
+    "SPA",
+    "SSG",
     "JAMstack",
     "Mobile",
   ],
-  "misc": ["Git Source Control", "Linux", "Agile SDLC", "Jira"],
-  "currentFocus": ["e-Commerce", "agriculture"],
+  "misc": ["Git Source Control", "Agile SDLC", "Jira"],
   "funFact": "The first computer virus was created in 1983."
 }
 ```
