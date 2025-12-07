@@ -4,7 +4,6 @@
 
 [![Linkedin: Steve](https://img.shields.io/badge/-Steve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephen-clark-5319406/)](https://www.linkedin.com/in/stephen-clark-5319406/)
 ![GitHub followers](https://img.shields.io/github/followers/gixxerblade?label=Follow&style=social)
-[![GitLab](https://img.shields.io/badge/-I'm%20on%20Gitlab-blue?logo=gitlab)](https://gitlab.com/gixxerblade)
 
 Hit me up in your `terminal` :computer:
 
@@ -13,7 +12,6 @@ npx angry_pickle_guy
 ```
 
 - 🌱 I’m currently using JavaScript & TypeScript
-- I'm on [Gitlab](https://gitlab.com/gixxerblade) (for work)
 - 👯 I’m looking to collaborate on anything to get my hands dirty
 - 📫 How to reach me: [email](mailto:sdclarkie@gmail.com) or [LinkedIn](https://www.linkedin.com/in/stephen-clark-5319406/) 
 - ![vwc](https://github.com/gixxerblade/gixxerblade/blob/master/images/hashflag.png) I am a graduate of [Vets Who Code](www.vetswhocode.io)
