@@ -21,31 +21,33 @@ npx angry_pickle_guy
 
 ```json
 {
-  "first name": "Stephen",
-  "last name": "Clark",
-  "education": ["Bachelor of Science - Information Technology", "VetsWhoCode Software Development Program"],
+  "firstName": "Stephen",
+  "lastName": "Clark",
+  "location": "Richlands, NC",
   "aliases": ["gixxerblade", "Angry Pickle Guy"],
-  "code": ["JavaScript", "React", "Node", "HTML5/CSS3", "TypeScript"],
-  "askMeAbout": ["military", "pickling", "cycling"],
+  "education": ["B.S. Information Technology (Cybersecurity) - Summa Cum Laude", "VetsWhoCode"],
+  "currentGig": "Software Engineer @ WakeCap",
+  "formerLife": "U.S. Marine Corps (20 years)",
+  "code": ["TypeScript", "JavaScript", "Python", "React", "Node"],
+  "askMeAbout": ["military", "pickling", "cycling", "mountain biking", "runner ducks", "performance engineering"],
   "technologies": {
     "frontEnd": {
       "js": ["React", "React Native", "TypeScript"],
-      "css": ["Bootstrap", "TailwindCSS", "Bulma"],
+      "css": ["TailwindCSS", "Bootstrap"],
+      "stateManagement": ["MobX", "Zustand"],
+      "routing": ["TanStack Router", "TanStack Query"]
     },
-    "backEnd": ["node", "TypeScript", "Sequelize", "ExpressJS", "Stripe", "tsoa"],
-    "databases": ["SQL", "GraphQL", "PostGreSQL", "Redis"],
-    "testing": ["Jest", "React Testing Library", "pactumJS"],
-    "misc": ["Firebase", "Docker"]
+    "backEnd": ["Node", "TypeScript", "Python", "FastAPI", "ExpressJS", "Sequelize"],
+    "databases": ["PostgreSQL", "SQLite", "GraphQL"],
+    "testing": ["Playwright", "Jest", "React Testing Library"],
+    "misc": ["Docker", "Firebase", "ArkType", "Fabric.js"]
   },
-  "architecture": [
-    "Serverless Architecture",
-    "SPA",
-    "SSG",
-    "JAMstack",
-    "Mobile",
-  ],
-  "misc": ["Git Source Control", "Agile SDLC", "Jira"],
-  "funFact": "The first computer virus was created in 1983."
+  "architecture": ["Serverless", "SPA", "SSG", "JAMstack", "Mobile"],
+  "currentFocus": ["Performance optimization", "Architecture modernization", "Canvas editors", "Floor plan visualizers"],
+  "sideProjects": ["Angry Pickles (E-commerce)", "Learn Magyar (Language app)", "Vets Who Code"],
+  "awards": ["Navy Commendation Medal", "Upsilon Pi Epsilon"],
+  "misc": ["Git", "Agile", "Jira"],
+  "funFact": "Owns male runner ducks who do elaborate courtship dances. Also made 4-100x performance improvements without breaking anything."
 }
 ```
 
