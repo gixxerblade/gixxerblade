@@ -29,7 +29,7 @@ npx angry_pickle_guy
   "currentGig": "Software Engineer @ WakeCap",
   "formerLife": "U.S. Marine Corps (20 years)",
   "code": ["TypeScript", "JavaScript", "Python", "React", "Node"],
-  "askMeAbout": ["military", "pickling", "cycling", "mountain biking", "runner ducks", "performance engineering"],
+  "askMeAbout": ["military", "pickling", "cycling", "mountain biking", "runner ducks"],
   "technologies": {
     "frontEnd": {
       "js": ["React", "React Native", "TypeScript"],
@@ -43,9 +43,8 @@ npx angry_pickle_guy
     "misc": ["Docker", "Firebase", "ArkType", "Fabric.js"]
   },
   "architecture": ["Serverless", "SPA", "SSG", "JAMstack", "Mobile"],
-  "currentFocus": ["Performance optimization", "Architecture modernization", "Canvas editors", "Floor plan visualizers"],
+  "currentFocus": ["Performance optimization", "Architecture modernization", "Canvas editors"],
   "sideProjects": ["Angry Pickles (E-commerce)", "Learn Magyar (Language app)", "Vets Who Code"],
-  "awards": ["Navy Commendation Medal", "Upsilon Pi Epsilon"],
   "misc": ["Git", "Agile", "Jira"],
   "funFact": "Owns male runner ducks who do elaborate courtship dances."
 }
