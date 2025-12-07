@@ -47,7 +47,7 @@ npx angry_pickle_guy
   "sideProjects": ["Angry Pickles (E-commerce)", "Learn Magyar (Language app)", "Vets Who Code"],
   "awards": ["Navy Commendation Medal", "Upsilon Pi Epsilon"],
   "misc": ["Git", "Agile", "Jira"],
-  "funFact": "Owns male runner ducks who do elaborate courtship dances. Also made 4-100x performance improvements without breaking anything."
+  "funFact": "Owns male runner ducks who do elaborate courtship dances."
 }
 ```
 
