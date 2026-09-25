@@ -37,11 +37,3 @@ I have a B.S. in Information Technology with a cybersecurity concentration, grad
 - [How to Fork a Repo and get a free Vets Who Code sticker](https://dev.to/vetswhocode/how-to-fork-a-repo-and-get-a-free-vets-who-code-sticker-46d9)
 - [git](https://dev.to/vetswhocode/git-22li)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-[![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=gixxerblade)](https://github.com/gixxerblade/github-readme-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gixxerblade)](https://github.com/anuraghazra/github-readme-stats)
