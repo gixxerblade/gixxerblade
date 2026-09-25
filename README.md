@@ -1,6 +1,27 @@
 ## Hi there 👋 I'm Steve
-
 <img align="right" src="https://i.ibb.co/Jtqd5q8/selfieascii.png" width="130">
+
+I'm a software engineer in eastern North Carolina with five years of commercial experience building web and mobile applications. Before moving into software engineering, I served for 20 years in the U.S. Marine Corps. I'm also a [Vets Who Code](https://vetswhocode.io/) graduate.
+
+My background includes React, TypeScript, React Native, Node.js, and PostgreSQL, with product work in construction technology and agriculture.
+
+## My work
+
+At WakeCap, my recent work has involved extensive use of AI coding tools to help develop a construction management platform that brings together project schedules, progress tracking, and site imagery. I work with Codex and Claude by explaining problems, supplying application context, and directing iterations. For SQL performance work, I've used PostgreSQL `EXPLAIN ANALYZE` to identify expensive computation and guide AI-assisted query improvements.
+
+Previously, at Growers, I worked on web and mobile applications using React, React Native, Node.js, and PostgreSQL, including APIs and payment and messaging integrations.
+
+## Projects and community
+
+- **[Down East Cyclists](https://github.com/gixxerblade/downeastcyclists)** — I maintain a cycling club platform built with Next.js, TypeScript, and PostgreSQL. It includes Stripe memberships and renewals, member administration, and trail maintenance reporting.
+- **[Learn Hungarian](https://github.com/gixxerblade/magyar-verbs)** — A personal language-learning project focused on Hungarian verbs.
+- **[Vets Who Code](https://github.com/Vets-Who-Code)** — I'm a program graduate, open-source contributor, and author of JavaScript and React tutorials.
+
+## A little more about me
+
+I have a B.S. in Information Technology with a cybersecurity concentration, graduating summa cum laude. Away from the keyboard, I'm into cycling, mountain biking, pickling, learning Hungarian, and looking after my runner ducks.
+
+[LinkedIn](https://www.linkedin.com/in/stephen-clark-5319406/) · [Email](mailto:sdclarkie@gmail.com)
 
 [![Linkedin: Steve](https://img.shields.io/badge/-Steve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephen-clark-5319406/)](https://www.linkedin.com/in/stephen-clark-5319406/)
 ![GitHub followers](https://img.shields.io/github/followers/gixxerblade?label=Follow&style=social)
