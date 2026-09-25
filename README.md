@@ -26,48 +26,6 @@ I have a B.S. in Information Technology with a cybersecurity concentration, grad
 [![Linkedin: Steve](https://img.shields.io/badge/-Steve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephen-clark-5319406/)](https://www.linkedin.com/in/stephen-clark-5319406/)
 ![GitHub followers](https://img.shields.io/github/followers/gixxerblade?label=Follow&style=social)
 
-Hit me up in your `terminal` :computer:
-
-```bash
-npx angry_pickle_guy
-```
-
-- 🌱 I’m currently using JavaScript & TypeScript
-- 👯 I’m looking to collaborate on anything to get my hands dirty
-- 📫 How to reach me: [email](mailto:sdclarkie@gmail.com) or [LinkedIn](https://www.linkedin.com/in/stephen-clark-5319406/) 
-- ![vwc](https://github.com/gixxerblade/gixxerblade/blob/master/images/hashflag.png) I am a graduate of [Vets Who Code](www.vetswhocode.io)
-
-```json
-{
-  "firstName": "Stephen",
-  "lastName": "Clark",
-  "location": "Richlands, NC",
-  "aliases": ["gixxerblade", "Angry Pickle Guy"],
-  "education": ["B.S. Information Technology (Cybersecurity) - Summa Cum Laude", "VetsWhoCode"],
-  "currentGig": "Software Engineer @ WakeCap",
-  "formerLife": "U.S. Marine Corps (20 years)",
-  "code": ["TypeScript", "JavaScript", "Python", "React", "Node"],
-  "askMeAbout": ["military", "pickling", "cycling", "mountain biking", "runner ducks"],
-  "technologies": {
-    "frontEnd": {
-      "js": ["React", "React Native", "TypeScript"],
-      "css": ["TailwindCSS", "Bootstrap"],
-      "stateManagement": ["MobX", "Zustand"],
-      "routing": ["TanStack Router", "TanStack Query"]
-    },
-    "backEnd": ["Node", "TypeScript", "Python", "FastAPI", "ExpressJS", "Sequelize"],
-    "databases": ["PostgreSQL", "SQLite", "GraphQL"],
-    "testing": ["Playwright", "Jest", "React Testing Library"],
-    "misc": ["Docker", "Firebase", "ArkType", "Fabric.js"]
-  },
-  "architecture": ["Serverless", "SPA", "SSG", "JAMstack", "Mobile"],
-  "currentFocus": ["Performance optimization", "Architecture modernization", "Canvas editors"],
-  "sideProjects": ["Angry Pickles (E-commerce)", "Learn Magyar (Language app)", "Vets Who Code"],
-  "misc": ["Git", "Agile", "Jira"],
-  "funFact": "Owns male runner ducks who do elaborate courtship dances."
-}
-```
-
 ### ![devto badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white) Articles
 
 ---
