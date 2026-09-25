@@ -3,13 +3,13 @@
 
 I'm a software engineer in eastern North Carolina with five years of commercial experience building web and mobile applications. Before moving into software engineering, I served for 20 years in the U.S. Marine Corps. I'm also a [Vets Who Code](https://vetswhocode.io/) graduate.
 
-My background includes React, TypeScript, React Native, Node.js, and PostgreSQL, with product work in construction technology and agriculture.
+My background includes React, TypeScript, and React Native for web and mobile applications, with backend work in C#/.NET, Node.js, and PostgreSQL. My product experience spans construction technology and agriculture.
 
 ## My work
 
-At WakeCap, my recent work has involved extensive use of AI coding tools to help develop a construction management platform that brings together project schedules, progress tracking, and site imagery. I work with Codex and Claude by explaining problems, supplying application context, and directing iterations. For SQL performance work, I've used PostgreSQL `EXPLAIN ANALYZE` to identify expensive computation and guide AI-assisted query improvements.
+At [WakeCap](https://www.wakecap.com/), my recent work has involved extensive use of AI coding tools to help develop a construction management platform that brings together project schedules, progress tracking, and site imagery. I work with Codex and Claude by explaining problems, supplying application context, and directing iterations.
 
-Previously, at Growers, I worked on web and mobile applications using React, React Native, Node.js, and PostgreSQL, including APIs and payment and messaging integrations.
+Previously, at [Growers](https://growers.ag/), I built web and mobile CRM platform using React, React Native, Node.js, Sequelize, and PostgreSQL.
 
 ## Projects and community
 
